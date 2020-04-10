@@ -65,3 +65,4 @@
 
 [剖析Promise内部结构](https://github.com/xieranmaya/blog/issues/3)
 
+[手写async await的最简实现（20行搞定）](https://juejin.im/post/5e79e841f265da5726612b6e)
