@@ -9,6 +9,8 @@
 
 [什么是BFC？什么条件下会触发？应用场景有哪些？](http://47.98.159.95/my_blog/css/008.html)
 
+[前端必看的8个HTML+CSS技巧](https://juejin.im/post/5e8fc7826fb9a03c677e68d9)
+
 ### JS基础篇
 
 [ES2015,2016,2017 特性 及使用](https://voyage2030.club/2019/12/04/ES2015-2016-2017-%E7%89%B9%E6%80%A7-%E5%8F%8A%E4%BD%BF%E7%94%A8/)
@@ -66,3 +68,7 @@
 [剖析Promise内部结构](https://github.com/xieranmaya/blog/issues/3)
 
 [手写async await的最简实现（20行搞定）](https://juejin.im/post/5e79e841f265da5726612b6e)
+
+### 杂谈
+
+[如何成为公司独当一面的工程师](https://juejin.im/post/5dd4cc71f265da0bca7899cf)
